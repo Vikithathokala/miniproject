@@ -1,0 +1,2 @@
+# miniproject
+software salary-prediction
